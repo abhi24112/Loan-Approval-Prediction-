@@ -1,1 +1,1 @@
-web: ganicorn app:app
+web: ganicorn app.wagi
