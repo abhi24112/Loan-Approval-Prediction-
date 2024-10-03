@@ -4,7 +4,6 @@ This is a web application built to predict whether a home loan application will 
 
 ### if your want see the Model Preparation consider reading this: https://github.com/abhi24112/Loan-Approval-Prediction-/blob/master/static/Loan%20Prediction.ipynb
 
-## Screenshots
 
 
 ## Table of Contents
@@ -12,13 +11,10 @@ This is a web application built to predict whether a home loan application will 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
-- [Form Details](#form-details)
-- [Model](#model)
-- [Contributing](#contributing)
-- [License](#license)
+- [How It Works](#how-it-works)
+- [Model Information](#model-information)
 
 ## Features
 
@@ -50,6 +46,7 @@ This is a web application built to predict whether a home loan application will 
    ```
 
 ## Project Structure
+
    ```bash
    loan-approval-prediction/
 │
@@ -67,7 +64,13 @@ This is a web application built to predict whether a home loan application will 
 └──requirements.txt       # Python dependencies
 ```
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/656290df-7c56-400f-a05b-393bc32a678c)
+
+
 ## How It Works
+
 1. __Form Submission__: Users enter their personal and financial information (gender, marital status, income, loan amount, etc.) in the form.
 
 2. __Data Processing__: When the user submits the form, the app sends the data to the backend using POST requests.
