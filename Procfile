@@ -1,1 +1,0 @@
-web: ganicorn app.wagi
