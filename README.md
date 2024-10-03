@@ -2,6 +2,8 @@
 
 This is a web application built to predict whether a home loan application will be approved or not based on certain criteria such as gender, marital status, income, and loan amount, among others. It uses a machine learning model for predictions and provides a simple, user-friendly interface for users to input their details and receive instant predictions.
 
+### if your want see the Model Preparation consider reading this: https://github.com/abhi24112/Loan-Approval-Prediction-/blob/master/static/Loan%20Prediction.ipynb
+
 ## Screenshots
 
 
